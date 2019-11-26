@@ -15,3 +15,4 @@
 - [Assignment 12 - Assignments 2](as12)
 - [Quiz 1.1 - Protests](qz1.1)
 - [Quiz 1.2 - Second Minimum](qz1.2)
+- [Quiz 1.3 - Restricted Sorting](qz1.3)
