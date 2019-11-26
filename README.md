@@ -16,3 +16,4 @@
 - [Quiz 1.1 - Protests](qz1.1)
 - [Quiz 1.2 - Second Minimum](qz1.2)
 - [Quiz 1.3 - Restricted Sorting](qz1.3)
+- [Quiz 1.4 - Assignments 3](qz1.4)
