@@ -8,3 +8,4 @@
 - [Assignment 5 - Summation 2](as5)
 - [Assignment 6 - 2D Rank Finding](as6)
 - [Assignment 7 - Enumerating Game](as7)
+- [Assignment 8 - Summation 4???](as8)
