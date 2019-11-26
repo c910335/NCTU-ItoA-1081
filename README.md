@@ -9,3 +9,4 @@
 - [Assignment 6 - 2D Rank Finding](as6)
 - [Assignment 7 - Enumerating Game](as7)
 - [Assignment 8 - Summation 4???](as8)
+- [Assignment 9 - Summation 3](as9)
