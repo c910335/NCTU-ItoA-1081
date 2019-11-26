@@ -12,3 +12,4 @@
 - [Assignment 9 - Summation 3](as9)
 - [Assignment 10 - Summation 0???](as10)
 - [Assignment 11 - Assignments](as11)
+- [Assignment 12 - Assignments 2](as12)
