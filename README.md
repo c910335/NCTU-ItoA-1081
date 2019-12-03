@@ -18,3 +18,4 @@
 - [Quiz 1.3 - Restricted Sorting](qz1.3)
 - [Quiz 1.4 - Assignments 3](qz1.4)
 - [Quiz 1.5 - Pareto Frontier](qz1.5)
+- [Assignment 13 - Summation 5](as13)
