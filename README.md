@@ -19,3 +19,4 @@
 - [Quiz 1.4 - Assignments 3](qz1.4)
 - [Quiz 1.5 - Pareto Frontier](qz1.5)
 - [Assignment 13 - Summation 5](as13)
+- [Assignment 14 - Huffman-like Tree](as14)
