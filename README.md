@@ -22,3 +22,4 @@
 - [Assignment 14 - Huffman-like Tree](as14)
 - [Assignment 15 - Assignments 4](as15)
 - [Assignment 16 - Visiting Islands](as16)
+- [Assignment 17 - Night Market](as17)
