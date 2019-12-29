@@ -27,3 +27,4 @@
 - [Assignment 19 - Logistics Company](as19)
 - [Assignment 20 - Guarding Asakusa](as20)
 - [Assignment 21 - Edge-disjoint Paths](as21)
+- [Assignment 22 - Aye Congratulations](as22)
