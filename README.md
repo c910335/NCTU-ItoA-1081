@@ -31,3 +31,4 @@
 - [Quiz 2.1 - Maximum Matching on a Tree](q2.1)
 - [Quiz 2.2 - Nobita's Trap](q2.2)
 - [Quiz 2.3 - Maximum Spanning Tree](q2.3)
+- [Quiz 2.4 - Shortest Paths](q2.4)
