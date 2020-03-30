@@ -15,17 +15,17 @@ int main() {
     s = a;
   else
     c = 1;
-  for (i = 2; i != n; ++i) {
+  for (i = 1; i != n; ++i) {
     cin >> a;
     s += a;
     if (s > m) {
       m = s;
       f = c;
-      l = i;
+      l = i + 1;
     }
     if (s < 0) {
       s = 0;
-      c = i;
+      c = i + 1;
     }
   }
   cout << f << ' ' << l;
